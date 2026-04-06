@@ -1,0 +1,366 @@
+2026-04-06 20:17:19.618461+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found (this database is empty); SQL statement:
+SELECT * FROM USERS [42104-240]
+2026-04-06 20:17:33.983362+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found (this database is empty); SQL statement:
+SELECT * FROM Users [42104-240]
+2026-04-06 20:17:42.588065+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found (this database is empty); SQL statement:
+SELECT * FROM Users [42104-240]
+2026-04-06 20:17:58.770580+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found (this database is empty); SQL statement:
+SELECT * FROM Users [42104-240]
+2026-04-06 20:18:07.123578+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found (this database is empty); SQL statement:
+SELECT * FROM Users [42104-240]
+2026-04-06 20:18:25.351253+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:19:19.996939+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+SELECT * FROM MESSAGE [42104-240]
+2026-04-06 20:19:26.725193+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGES" not found (this database is empty); SQL statement:
+SELECT * FROM MESSAGES [42104-240]
+2026-04-06 20:19:31.280906+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+SELECT * FROM MESSAGE [42104-240]
+2026-04-06 20:19:57.152618+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+SELECT * FROM MESSAGE [42104-240]
+2026-04-06 20:19:57.546231+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+SELECT * FROM MESSAGE [42104-240]
+2026-04-06 20:21:11.560357+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:11.820436+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:12.358731+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:13.359891+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:14.357336+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:15.352350+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:16.356280+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:17.364599+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:18.358782+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:19.358197+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:20.364556+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:21.352504+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:22.355030+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:23.365311+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:24.357106+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:25.356340+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:26.361627+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:31.673275+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:31.699249+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:32.671968+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:33.669472+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:34.673867+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:35.676792+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:36.682656+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:37.682871+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:38.672601+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:39.666998+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:40.670335+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:41.676884+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:42.680051+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:43.672598+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:44.678115+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:45.676321+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:46.665689+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:47.670306+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:48.674085+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:49.674390+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:50.672405+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:51.678419+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:52.668213+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:53.671773+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:54.675115+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:55.675025+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:56.681928+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:57.670073+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:21:59.372292+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:00.310793+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:01.315343+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:02.320817+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:03.322456+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:04.317088+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:05.323784+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:06.320866+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:07.316597+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:08.320265+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:09.315245+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:10.321235+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:11.318991+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:12.313237+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:13.331543+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:14.315611+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:15.314472+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:16.323038+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:17.324263+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:18.315212+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:19.316475+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:20.311001+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:21.322225+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:22.317635+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:23.322446+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:24.323274+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:25.320727+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:26.309640+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:27.323368+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:28.316369+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:29.312671+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:30.320323+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:31.310175+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:32.313824+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:33.310554+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:34.320651+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:35.320101+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:36.326324+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:37.327019+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:38.317172+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:39.317800+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:40.326848+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:41.329118+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:42.316317+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:43.321251+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:44.317757+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:45.313967+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:46.320873+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:47.319584+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:48.222551+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:48.676551+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:49.673576+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:54.250787+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:54.268021+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:55.247789+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:56.257835+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:57.314998+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:58.316237+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:22:59.310747+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:23:00.325738+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:23:01.330356+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:23:02.325479+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:23:03.327292+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:23:04.312060+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:23:05.324977+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
+2026-04-06 20:23:06.324703+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.content,m1_0.deleted_for_everyone,m1_0.pinned,m1_0.timestamp from message m1_0 [42104-240]
